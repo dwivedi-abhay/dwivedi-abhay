@@ -1,7 +1,7 @@
 ### 'Sup! I'm Abhay Dwivedi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 - 👯 I’m looking to collaborate on **Unity3D Game Development**
-- 🤔 I’m looking for help with **DSA**
+- 🤔 I’m looking for help with **Shader programming**
 - ⚡ Fun fact: I have a cricket game on play store **Cricket India Run Chase**
 - 📫 Let us Connect: 
   <p align='center'>
